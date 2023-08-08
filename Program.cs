@@ -2,7 +2,7 @@
 using System;
 class Car
 {
-    string color = "red";
+    string color = "blue";
     string name = "BMW";
     int speed = 5;
     static void Main(string[] args)
