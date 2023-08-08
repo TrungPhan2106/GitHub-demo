@@ -1,0 +1,15 @@
+D:\C#learn\demoGitHub\demoGitHub\bin\Debug\net6.0\demoGitHub.exe
+D:\C#learn\demoGitHub\demoGitHub\bin\Debug\net6.0\demoGitHub.deps.json
+D:\C#learn\demoGitHub\demoGitHub\bin\Debug\net6.0\demoGitHub.runtimeconfig.json
+D:\C#learn\demoGitHub\demoGitHub\bin\Debug\net6.0\demoGitHub.dll
+D:\C#learn\demoGitHub\demoGitHub\bin\Debug\net6.0\demoGitHub.pdb
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.csproj.AssemblyReference.cache
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.AssemblyInfoInputs.cache
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.AssemblyInfo.cs
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.csproj.CoreCompileInputs.cache
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.dll
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\refint\demoGitHub.dll
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.pdb
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\demoGitHub.genruntimeconfig.cache
+D:\C#learn\demoGitHub\demoGitHub\obj\Debug\net6.0\ref\demoGitHub.dll
