@@ -4,7 +4,7 @@ class Car
 {
     string color = "red";
     string name = "BMW";
-
+    int speed = 5;
     static void Main(string[] args)
     {
         Car myObj = new Car();
