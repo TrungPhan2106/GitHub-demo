@@ -3,7 +3,7 @@ using System;
 class Car
 {
     string color = "blue";
-    string name = "BMW";
+    string name = "roll-royce";
     int speed = 5;
     static void Main(string[] args)
     {
